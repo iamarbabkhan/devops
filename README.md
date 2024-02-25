@@ -1,6 +1,5 @@
 ### DevOps
-Devops is a process of improving the application delivery by ensuring there is automation, code quality, continuous monitoring, continuous testing.
-
+Devops is a process of improving the application delivery by ensuring there is automation, code quality, continuous monitoring, continuous testing. it breaks the silos between development and operations team.
 ### Devops Stages 
 1. Version control
 2. Continuous integration- compile validate code review unit testing, integration testing 
