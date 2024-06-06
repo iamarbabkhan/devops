@@ -8,5 +8,5 @@ Devops is a process of improving the application delivery by ensuring there is a
 3. Continuous delivery- deploying the application to the test server 
 4. Continuous deployment- deploying the application to the prod server for release
 
-### SLDC
+### SDLC
 software delivery lifecycle is a process to deliver application. phases include planning, design, development, testing, deployment, and maintenance.
